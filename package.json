@@ -1,0 +1,18 @@
+{
+  "name": "ts-loadash-practice",
+  "version": "1.0.0",
+  "description": "Ts project for unlv",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Preston Darrough",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "typescript": "^4.7.4"
+  },
+  "devDependencies": {
+    "@types/lodash": "^4.14.182"
+  }
+}
